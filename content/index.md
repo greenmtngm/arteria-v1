@@ -1,7 +1,7 @@
 ---
 title: Welcome adventurer to the GreenMtnGM's homepage
 draft: 
-created: '[[<% tp.date.now("Do MMMM YYYY HH:mm") %>]]'
+created: '[[21st January 2025 13:35]]'
 last modified: 21st January 2025 12:13
 ---
 
