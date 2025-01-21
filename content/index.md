@@ -1,6 +1,12 @@
 ---
-title: Welcome to Quartz
+title: Welcome adventurer to the GreenMtnGM's homepage
+draft: 
+created: '[[<% tp.date.now("Do MMMM YYYY HH:mm") %>]]'
+last modified: 21st January 2025 12:13
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This is a nearly blank Quartz installation. I'll be updating things as I learn how!
+Database for my homebrew setting: [[The World of Arterria]]
+
+And if you're here for Waterdeep Dragon Heist there will be player notes here soon.
+
