@@ -1,0 +1,1 @@
+Containing the [[Western Continents]], bordering [[Arterria]] to the east and [[Ameth]] on the West. 

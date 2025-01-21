@@ -1,0 +1,1 @@
+Deep in the Morass of Fordrion, a conglomeration of towers and bridges defending the northern reaches of the Berthierwe Trill, a bastion for the free elves and home to  the Druids of the Scythe, who host a number of Avendrow in their midst.

@@ -1,0 +1,3 @@
+Filed in [[Phandalin]]
+
+Hanging above the front door of this modest trading post is a sign shaped like a wooden shield with a blue lion painted on it.   This building is owned by the Lionshields, a merchant company based in the city of Yront, over a hundred miles to the east. They ship finished goods to Phandalin and other small settlements throughout the region, but this outpost has been hard hit by banditry. The most recent Lionshield caravan due in Phandalin never arrived.   The master of the Phandalin post is a sharp-tongued human man of thirty-five named Hugh Coster.

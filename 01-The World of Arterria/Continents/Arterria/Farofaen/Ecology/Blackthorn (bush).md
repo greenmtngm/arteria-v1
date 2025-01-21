@@ -1,0 +1,1 @@
+[[Farofaen]], [[Searsap Forest]]

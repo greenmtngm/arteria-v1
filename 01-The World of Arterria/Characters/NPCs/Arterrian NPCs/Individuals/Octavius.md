@@ -1,0 +1,3 @@
+Filed under [[Thornfield (city)]], Merchant at [[Octavius' Outrageous Oddities]]
+
+Octavius is a tottering older gentleman, in a long blue overcoat that covers a red robe, he is surrounded by a bit of a musty odor. He is sallow, bespectacled, and has unusually long finger nails. His partner sits at a counter, that is covered, by yet more oddities. You can barely see him through the piles. If you had to guess he does not move from behind that desk very often, he has a large belly, and a stringy white beard. He wears a brown robe and fantasy loafers. There's a filing cabinet next to him, though it clearly serves no purpose. He is the one that generally handles the money.

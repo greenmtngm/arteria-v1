@@ -1,0 +1,1 @@
+An expanse littered with GIANT swords, skulls and other bones. Including a kneeling crowned skeleton, supported by a enormous sword piercing through its chest. *remove before publishing* vultures, divides in road, shepard (wolves), stray dog, rabid dog, bats in the night, burial stones]]

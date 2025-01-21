@@ -1,0 +1,1 @@
+A fountain found near a statue of Mielikki, south of Phandalin, between it and Agatha's Lair

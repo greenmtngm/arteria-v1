@@ -1,0 +1,1 @@
+A canyon that splits into three distinct paths on the southern edge of the arcanites, west of the main north south road. Rumor has it that there is an ancient elven dungeon built into the side of the cliff face at the head of the canyon, but that none that have ever gone to find it have ever returned.
