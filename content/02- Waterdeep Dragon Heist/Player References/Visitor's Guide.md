@@ -32,7 +32,7 @@ Learn EVERYTHING a newcomer needs to know to stay on the good side of the city w
 
 ## Factions
 
-[[Factions]]
+[[Waterdeep Factions]]
 [[Bregan D'aerthe]]
 [[Emerald Enclave]]
 [[Force Grey]]
