@@ -22,11 +22,15 @@ Or if you somehow found your way here without booking a game with me, here are w
 
 Startplaying (book here!):
 Https://www.startplaying.games/dm/GreenMtnGM
+
 Discord:
 https://discord.gg/SrPVcMyY
+
 Instagram:
 https://www.instagram.com/greenmtngm
+
 Facebook:
 https://www.facebook.com/profile.php?id=61570941564220
+
 Linktree:
 https://linktr.ee/greenmtngm

@@ -4,7 +4,7 @@ See the Blackstaff! Meet your one true Rose!
 
 Learn EVERYTHING a newcomer needs to know to stay on the good side of the city watch and away from the DREADED [[Xanathar Guild]]!
 
-## Locales
+## 01 Locales
 
 [[Wards]]
 [[The Walking Statues]]
@@ -12,25 +12,11 @@ Learn EVERYTHING a newcomer needs to know to stay on the good side of the city w
 [[Other Locations]]
 [[Infamous Alleys]]
 
-## Dramatis Personae
+## 02 Dramatis Personae
 
 [[Dramatis Personae]]
 
-## Code Legal
-
-[[Code Legal]]
-[[Crimes against Citizens]]
-[[Crimes against Lords, Officials, Nobles]]
-[[Crimes against the City]]
-[[Crimes against the Gods]]
-
-## Guilds
-
-[[Guild Descriptions]]
-[[Guild List]]
-[[Guilds, Membership]]
-
-## Factions
+## 03 Factions
 
 [[Waterdeep Factions]]
 [[Bregan D'aerthe]]
@@ -42,17 +28,28 @@ Learn EVERYTHING a newcomer needs to know to stay on the good side of the city w
 [[Xanathar Guild]]
 [[Zhentarim]]
 
-## Speech
+## 04 Guilds
+
+[[Guild Descriptions]]
+[[Guild List]]
+[[Guilds, Membership]]
+
+## 05 Nobility
+
+[[Noble Families]]
+[[Becoming a Noble]]
+
+## 06 Speech
 
 [[How to Address Rulers]]
 [[Noblespeak]]
 [[Speak Like a Native]]
 [[Watch Talk]]
 
-## Nobility
+## 07 Code Legal
 
-[[Noble Families]]
-[[Becoming a Noble]]
-
-
-
+[[Code Legal]]
+[[Crimes against Citizens]]
+[[Crimes against Lords, Officials, Nobles]]
+[[Crimes against the City]]
+[[Crimes against the Gods]]
