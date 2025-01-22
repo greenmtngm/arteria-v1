@@ -1,0 +1,9 @@
+Waterdeep contains well over a hundred noble families.
+
+House Amcathra. The Amcathras are a Tethyrian family that specializes in horse breeding and training, cattle ranching, wine-making, and weaponsmithing. The family motto is “We trample our troubles.” The family has a large villa in the North Ward, on the east side of the High Road between Hassantyr’s Street and Tarnath Street.
+
+House Margaster. The Margasters are an Illuskan family whose business interests lie in land-based shipping and bulk goods trading. The house also has a quiet history of wizardry. The family motto is “Nothing is beyond our grasp.” The Margaster family estate is situated between Stabbed Sailor Alley and Shattercrock Alley in the North Ward.
+
+House Phylund. The Phylunds are a Tashlutar family that captures and sells monsters. Monsters that can’t be trained as pets or guard beasts are sold to arenas or harvested for their meat, bones, and skins. The Phylunds sponsor adventuring parties and monster-hunting expeditions, and their motto is “What you fear, we master.” House Phylund has an estate on Copper Street, west of the High Road between Julthoon Street and Trader’s Way in the North Ward.
+
+House Rosznar. Once banished from Waterdeep for smuggling, slavery, and other crimes, this Tethyrian house has returned and is trying to overcome its dark past and disgraceful reputation by focusing on legitimate business ventures such as wine-making and gem trading. The family motto is “We fly high and stoop swift.” Rosznar Villa is situated on Thunderstaff Way between Copper Street and Shield Street in the Sea Ward, west of the High Road.

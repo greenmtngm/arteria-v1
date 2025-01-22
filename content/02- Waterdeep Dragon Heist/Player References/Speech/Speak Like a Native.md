@@ -1,0 +1,15 @@
+“Dabbler but no master” and “No mastery blazing forth” These idioms trace their origin to Ahghairon, who early on in his studies of magic humbly said, “I am no wizard. I am a dabbler but no master of magic; it seems no mastery burns within me.” Both now serve as expressions of false modesty applied to any skill or craft, not just magic use.
+
+“Toughs,” “sharpjaws,” “fastfists,” “bullyblades,” and “alleyblades” “Toughs” is a general collective term for habitual street loiterers. Those who boast of martial skill but who shrink from violence or lack real ability are “sharpjaws.” In sharp contrast are Waterdeep’s “fastfists” (any lout easily provoked to violence), “bullyblades” (battle-hardened mercenaries hired as muscle), and “alleyblades” (muggers and thieves).
+
+“Longride” and “Last ride” To a caravan merchant, a drover, or a farmer from the lands around Waterdeep, as well as any Waterdavian who rides for sport, recreation, hunting, or falconry, the late afternoon is “longride,” and dusk is “last ride.”
+
+“Which the greater thief?” [[Tuezaera Hallowhand]] was a famous “lone cat” thief of Waterdeep in the 1200s DR, who disappeared suddenly and is thought to have come to a violent end. She once robbed a wizard and wrote this on his wall with a fingertip dipped in his favorite red wine: “[[I take things. You take freedom with your spells. Which of us is the greater thief?]]” Waterdavians now use this phrase in argument with one another over all kinds of matters when comparing wrongs done.
+
+“Doth thy mirror crack?” or “Hurl but think not?” or “Take but not count cost? Be nothing, then!” Laeral Silverhand, then the Lady Mage of Waterdeep when she was married to Khelben “Blackstaff” Arunsun, once publicly rebuked an overambitious wizard of the Watchful Order of Magists and Protectors thusly: “If I hurl spells but think not of consequences, I am nothing. If I take lives but count not the cost, I am nothing. If I steal in the night and see not the faces of the devastated come the next morning, I am nothing. If I make decrees like a ruler but undertake none of the other responsibilities of the throne, I am nothing. And if I do all these things in the name of the Watchful Order, I am less than nothing. Doth thy mirror crack?”
+
+“Fang gangs” Dock Ward and South Ward street gangs who use knives and carve gang “sigils” on their forearms (or less conspicuous places) and on their victims.
+
+“[[Rose]]” the Waterdhavian term for a beau, a suitor, or “the one I desire.” “He’s my rose” or “She’s my rose” can mean either “He or she is the one I want” or “We long for each other.”
+
+“[[Blackstaff]]” is the title given to the master of eponymous staff and tower and the Archmage of Waterdeep. “Blackstaff” and “High Wizard” can be used interchangeably, but “Archmage” is slightly less official.

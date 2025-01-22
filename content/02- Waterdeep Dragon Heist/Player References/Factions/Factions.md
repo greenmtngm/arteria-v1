@@ -1,0 +1,8 @@
+[[Bregan D'aerthe]]
+[[Emerald Enclave]]
+[[Force Grey]]
+[[Harpers]]
+[[Lords Alliance]]
+[[Order of the Gauntlet]]
+[[Xanathar Guild]]
+[[Zhentarim]]
