@@ -46,6 +46,21 @@ Gently rolling hills, the fresh water comes from the spring by the giant ironwoo
 
 The woods are the foundation of this city. From lumber to game. There are a few surrounding farms as well.
 
+### Points of Interest
+[[The World Tree]]
+The [[Moonwell]]
+[[The Wandering Oak]]
+[[The Waystone Inn]]
+[[The Ochre Mare]]
+[[Foresters Guild]]
+The [[Mage School]]
+The Mage Tower
+The Spring
+The Elven Quarter
+The Crafters Quarter 
+The Fancy Quarter
+The Timber Mill
+The Barracks
 ### Markets and Market Prices
 Thornfield has just about anything someone might need, bakers, coopers, smiths, etc. etc. Here are a few notable establishments:
 

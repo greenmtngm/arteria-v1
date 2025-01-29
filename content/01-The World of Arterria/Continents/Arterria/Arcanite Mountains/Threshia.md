@@ -44,3 +44,16 @@ Large valley that slopes steeply upward on every side. Small, dangerous mountain
 ### Natural Resources
 
 Minerals, metals, some high elevation animals for game. Tough grasses. Ice from glaciers.
+
+### Establishments/POIs
+
+Inns: [[The Silver Rose]], [[The Rabid Shovel]], [[The Second Throne]]
+
+Temples: Moradin, Mystra
+Goldenmane Estate
+Government Center
+Upper/Lower Barracks
+[[The Charmed Tiger (Inn)]]
+Theater
+Districts: Blacksmith, Jeweler's, Engineer
+Guilds: Artisans, Mages, Adventurers, Merchants

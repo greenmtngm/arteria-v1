@@ -14,3 +14,5 @@ Thieves Guilds: [[Five Finger Viscounts]]
 Recent History: Trouble with the Orc tribes to the south has quieted due to environmental disturbance, sending them fleeing west through Farofaen. Unpredictable weather has made harvests unstable, raising prices, affecting exports.
 
 Population: Mostly human, however the Halflings of [[Arterria]] tend to come from here.
+
+[[Castle Island]] based on french, tidal castle, exists here.

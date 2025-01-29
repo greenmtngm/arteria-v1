@@ -5,3 +5,7 @@ The Northernmost of the Western Continents.
 # ![[Plain of the Dead]]
 
 [[The Pearl Bluffs]]
+
+
+[[Plain of Glass]]
+Mirror like plain that creates a mirror effect at sunset. weird visual effects, sun burn, translucent seed pods.

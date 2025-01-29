@@ -5,6 +5,12 @@ Monarchy, typically ruled by the Thornfield Family
 Socialist  
 Imports: Metals, Food Stuffs  
 Exports: Wood ([[Searsap (tree)]], [[Ironwood (tree)]], [[Cloudleaf (tree)]])  
+
+### Project for the World's Fair: 
+Large Airship, first of its kind in the world.
+### Important Projects/Goals: 
+Restore trade, rejuvenate the forest?
+
   
 Cities: ![[Thornfield (city)]] ![[Arborport]]  
 Towns: [[Blackthorn]], [[Hommlet]], [[Phandalin]]  
