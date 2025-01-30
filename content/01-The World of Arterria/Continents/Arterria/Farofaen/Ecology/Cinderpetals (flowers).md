@@ -1,0 +1,2 @@
+Cinderpetals otherwise known as Bloodroot: These bright red and orange flowers can be found all around the world that grow all alone. If ground up finely and left in a vial or bottle they will coagulate the water into a thick goo and make the color into a vibrant swirl of red and orange. These are commonly used to make alchemist's fire. Rose-of-dawn: The petals of this rose are colored like a sunrise, and can be used to give food a spicy flavor, on the level of a ghost pepper.
+

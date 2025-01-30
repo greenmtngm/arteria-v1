@@ -1,0 +1,24 @@
+# Arcane Ascendants *Book One*
+
+The books pages are dusty, and worn through time and many readings, but some excerpts are still readable...  
+  ...Long, long ago elves ruled the world of Arteria. With a strong arm, and with even more powerful druidic magic, the natural balance was upheld. Much time passed in this way. Until, Humans, a young and ambitious race came into its own. The other races, gnomes, dwarves, halflings, more curious and more ambitious than the elves, shared with the Humans their knowledge of the arcane arts.. But the elves, who viewed the other races as their wards, feared what would happen if the races of Arteria became too entangled in the magical weave that runs through the world... ...Over many generations as the Humans studied ancient texts, and deepened their connection with Mystra, their arcane knowledge grew, their connection with the weave flourished and it began to push up against the limits that the elves imposed on such endeavors. At the same time, the humans began to question the leadership of the elves. Why restrict arcane experimentation? Why restrict arcane research and knowledge?... With these questions the Humans fueled the skepticism of the other races, who had tasted the utility, beauty and power of arcane magic... Until one day, the great goddess Mystra, sensing the readiness, the worthiness, of the peoples of Arteria; granted the world the gift of the Stars of Mystra, the God's Tears......
+
+# Arcane Ascendants *Book Two*
+
+### Water and mud has damaged this book thoroughly, pages torn and many pages stick together smearing ink to make it unintelligible..
+
+  ...With the finding of the Stars of Mystra, the arcane ambitions of the races of Arteria grew to a fever pitch. Surely, the stars are a sign, a gift from the goddess of magic herself... Fueled by this discovery, Trig Urvor, a gnome mage began proselytizing for the goddess Mystra. Singing her praises to whoever would listen, Trig soon began to acquire a troop of equally devout mages about her. Fyril Cygis first and brightest among them _(human mage)_, Sybell Kincaid _(human Sorcerer)_, Mathias Oxborn _(halfling artificer)_, Krynt Webb _(human sorcerer)_, Juliana Ravenmar _(half-elf mage)_, Garmul Paradur _(dwarf mage)_, Scarlet Stavenger _(human warlock)_, Roondar Fasketel _(human mage)_, Rindel Oakenheart _(elf warlock)_. They became known by several names, Mystery Mages, the Spellsmiths, and the Spellweavers, but the name that has best withstood the test of time is The Arcane Ascendants (often shortened to either the Arcanists or the Ascendants). And as the influence of the Arcane Ascendants grew, so did Mystra's as well... ...Wherever Trig and her troupe went, new enclaves took hold, soon their reputation began to precede them, and they would be heartily welcomed into cities and hamlets where they had never been, by young and old alike...
+
+ 
+ # Arcane Ascendants *Book Three*
+
+### Chewed on by some kind of creature, claws have shredded some of the pages, perhaps to be used as nesting material...
+
+  Having groups of mages in every major city, the Spellweavers began to encourage all who believed in Mystra's teachings or the freedom that arcane magic promised, to perform public rituals to demonstrate that the superstitious old elves had nothing to fear... ...Many rites were performed, especially by the clerics and paladins of Mystra, who impressed the populace by wielding arcane magic, something that no other clergy had done before. They performed coming of age, wedding, atonement, and dedication ceremonies in the name of Mystra. They prepared bodies for departing the mortal realm. They bound large amounts of goods into small gems for long distance shipping, they passed messages, wrote in the sky, contacted other planes of existence... Many of the rituals were already done by the worshipers of Mielikki, Silvanus.. and the other old gods, but with a new flare that the populace was ready to embrace...
+
+# Book: Elvish History (Fountain Library)
+
+Elven history by an ancient elven scribe  
+  
+The humans landed ages ago, we showed them peace, as we had with the orcs, halflings, dwarves, and others. But as time went on discontent brewed. The humans it seemed were not content to work within the bounds of nature and the divine.   Their goddess mystra and the arcane arts were too important. The races became fractious, more and more different peoples seemed to move away from Mielikki and her graces. The great pools once thronged with appreciative masses, dancing, playing, washing, lounging (praying in a way, whether or not they really knew it)... began to lose their lustre.  
+The masses dwindled. Meetings of apprentices seeking training in the arcane arts began in secret. Schools formed.

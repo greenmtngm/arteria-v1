@@ -1,0 +1,7 @@
+
+# Puzzle For A Door
+
+Some of the best puzzles involve doing something physical to solve a riddle. Example from a campaign I took part in: On the wall there was a carving of seemingly nonsensical words. A skeleton next to the wall has a piece of paper on him that says something along the lines of "A=O X=R". Whenever the letter A is written, it must be replaced with O and so on, however the players must figure out what the other letters are.  
+  Once it was completed, it was a cryptic riddle, "Create that which is so fragile, to utter it's name would break it." The players think about it for a while (hopefully one of them is clever) and realize the answer is silence.  
+  You then allow them to do as they wish, chances are they sit there for a while silent. Once they've been silent for a time tell them that they hear the crackle of fire on the torches in the room. Obviously, putting out all the lights in a dungeon is a dangerous thing to do, so you could have that trigger an ambush.  
+  This is where the actual puzzle was finished, and the door opens, however I thought of another layer which could be added. When the torches are put out, glowing shapes are seen on the wall, and it is a slide puzzle type thing on the wall. Only once the tiles on the wall are in proper alignment does a keyhole form.

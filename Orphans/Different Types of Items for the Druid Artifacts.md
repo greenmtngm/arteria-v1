@@ -1,0 +1,1 @@
+Druid Relics: Branch of the World Tree, Torque, Antlers, Taber/Bodhran, Kilt, Pelt, Holy Avenger
