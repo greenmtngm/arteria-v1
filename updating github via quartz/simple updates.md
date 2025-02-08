@@ -1,5 +1,5 @@
 if CMD is targeting C:\users\soapf
-go to C:\Users\soapf\arteria-v1 
+cd C:\Users\soapf\arteria-v1 
 and right click, open directory in terminal
 
 >git commit -a -m "Manual sync"

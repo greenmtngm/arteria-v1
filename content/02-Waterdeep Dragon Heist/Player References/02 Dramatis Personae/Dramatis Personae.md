@@ -1,3 +1,8 @@
+Each PC can start the game being familiar with one of the NPCs in Appendix C (see below)
+![[Screenshot 2025-02-03 at 17-26-24 D&D 5E - Waterdeep - Dragon Heist.pdf-2.webp]]
+
+
+
 | Major NPC               | Description                                                                                                                                                                                                                                                                                                                                                        | Main Description               |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------ |
 | [[Ahmaergo]]            | Xanathar’s majordomo, has a fascination with minotaurs.                                                                                                                                                                                                                                                                                                            | Chapter 5 “Spring Madness”     |
