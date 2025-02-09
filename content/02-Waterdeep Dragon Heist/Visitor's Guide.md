@@ -53,3 +53,5 @@ Learn EVERYTHING a newcomer needs to know to stay on the good side of the city w
 [[Crimes against Lords, Officials, Nobles]]
 [[Crimes against the City]]
 [[Crimes against the Gods]]
+
+![[waterdeep map.webp]]
