@@ -1,4 +1,4 @@
-## [[Wards]]: [[THE WARDS OF WATERDEEP]]
+### THE WARDS OF WATERDEEP
 
 [[Waterdeep]] has long been divided into several large regions called wards. To locals these are essential to Waterdeep, but outsiders often lose track of which ward they’re in or what a ward’s name signifies.
 
