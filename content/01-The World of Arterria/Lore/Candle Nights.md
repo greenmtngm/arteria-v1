@@ -1,4 +1,0 @@
-[[History and Lore]] [[Holidays]] [[Calendar]]
-Candlenights – A night during [[Veilkindle]] when the entire city holds a candlelight vigil, to remember the prestidigitation vigils of the [[Arcane Ascendants]], until the dead of night, and then exchanging gifts and celebrating with a feast. Groups of families and neighbors stand around the city in patches, while holding their candles up high. 
-
-*This commemorates the time when a group of adventurers killed a nest of gold dragons, relieving many of the farmers of the fear of being killed and their crops burned. The adventurers brought back the dragon’s hoard to share with the town, but because of a raging blizzard, had to be guided in by groupings of torches.

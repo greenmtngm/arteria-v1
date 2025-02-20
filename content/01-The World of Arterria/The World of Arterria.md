@@ -1,24 +1,15 @@
-[[Continents]]
-[[History and Lore]]
+#### [[Continents]]
+Perhaps more accurately locations, under this heading we break down different world locations from the continent level to city, town, hamlet, points of interest.
+#### [[History and Lore]]
+A variety of different information can be found here, including: ancient history, recent events, text from books scattered around the world, the world's calendar, description of important relics.
+
 [[PCs]]
+To be expanded, currently includes the party from my home game and a couple of homebrew subclasses, one for Paladins (Knight of the Mystic Fire AKA oath of the arcane), and Druids (Springgleam).
+
 [[NPCs]]
+High risk of spoilers in the Antagonist Category (even though "antagonist" includes some NPCs that could very well work with the party). Can still be good for connecting your character to the world at large.
 
 ![[World of Arteria Busy V1.jpg]]
 
 ![[Arteria labelled v11.jpg]]
 
-Natural Phenomena
-
-Clergy of Mystra, goddess of magic, held a regular ceremony in which they observed various stars and constellations, named them, and gave them reverence. Sometimes a silent image illusion was used to brighten stars and animate constellations, though this was a bit ostentatious. The Temple of Mystra in Wreecaster did this every clear night in 1374 EAD.
-
-The Centaur, viewable over the Morinmeda Coast North in summer.
-The Woman Warrior, viewable over the Morinmeda Coast North in summer.
-Torm's belt, viewable over the Bizkarrezura Range in summer.
-Mystra's Star Circle (also known as the Crown of the North or the Cold Crown), viewable in the North in winter and autumn.
-The Harp.
-The Sword and Dagger.
-The Lady of Mystery.
-The Dragon of Dawn.
-The Eyes of the Watching Woman (also known as the Double Daggers, which indicate true west in the North.)
-The Arrows of the Gods which indicate true East in the North.
-The Spellweavers
