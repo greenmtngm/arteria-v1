@@ -1,6 +1,6 @@
 
 ![[Wanted-Charles Vane.jpg]]
 
-![[adventurers wanted2.webp]]
+![[adventurers wanted2 1.webp]]
 
-![[phandalin1.webp]]
+![[public/z_attachments/phandalin1.webp]]
