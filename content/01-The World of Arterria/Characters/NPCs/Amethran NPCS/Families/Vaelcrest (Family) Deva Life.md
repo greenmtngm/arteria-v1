@@ -1,0 +1,3 @@
+– Fallen Healers Turned Bio-Mercenaries
+
+Status: Former priests and healers who turned their skills into an elite medical mercenary force, working for the highest bidder. Notable Members: Elara Vaelcrest – A battle medic known for resurrecting only those who prepay for the service. Bishop Alden Vaelcrest – A disgraced cleric who claims the gods abandoned Fordval, so why should he offer healing for free? Rumors: Some say the Vaelcrests secretly run life-extension programs—for those who can afford the cost. ---
